@@ -1,0 +1,2 @@
+- criar um component para o botão de sign in para ele ter a função automaticamente
+- resolver o form do cadastro
